@@ -7,9 +7,13 @@ O projeto utiliza o Spring Framework e demonstra os seguintes padrões de projet
 - Facade
 # Pré-requisitos
 
-- Java JDK 8 ou superior
+- Java JDK 11 ou superior
 - Maven
-- Spring Boot
+- Spring Boot - Framework para criação de aplicações Java baseadas em Spring.
+- Swagger - Ferramenta para documentação de APIs.
+- Feign - Cliente HTTP declarativo para serviços web.
+- H2 Database - Banco de dados em memória para desenvolvimento.
+- MySQL Server - Banco de dados relacional. Você pode instalar localmente ou usar uma instância remota.
  # Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests, relatar problemas ou sugerir melhorias. Para grandes alterações, abra primeiro uma issue para discutir o que você gostaria de mudar.
 
