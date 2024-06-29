@@ -22,5 +22,5 @@ Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests, 
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/hyppoliteaurelus/Projeto-spring-cliente-na--pratica.git
    cd nome-do-repositorio
